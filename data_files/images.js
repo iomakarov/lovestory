@@ -22,10 +22,10 @@ import wedding02 from '../assets/wedding/wedding02.jpg';
 import wedding03 from '../assets/wedding/wedding03.jpg';
 import wedding04 from '../assets/wedding/wedding04.jpg';
 
-import skill01 from '../assets/skills/skill-care.png';
-import skill02 from '../assets/skills/skill-care.png';
-import skill03 from '../assets/skills/skill-excit.png';
-import skill04 from '../assets/skills/skill-flirt.png';
+import skill01 from '../assets/skills/skill-care.svg';
+import skill02 from '../assets/skills/skill-resp.svg';
+import skill03 from '../assets/skills/skill-flirt.svg';
+import skill04 from '../assets/skills/skill-attrac.svg';
 
 import restaurant00 from '../assets/restaurant/restaurant00.jpg';
 import restaurant01 from '../assets/restaurant/restaurant01.jpg';
